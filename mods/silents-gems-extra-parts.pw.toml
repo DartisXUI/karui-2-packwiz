@@ -1,0 +1,13 @@
+name = "Silent's Gems: Extra Parts"
+filename = "SGExtraParts-1.12.2-1.4.6-49.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e32cb69f3b30b2dca0b2893b46385be8c3ef888e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2630017
+project-id = 245281

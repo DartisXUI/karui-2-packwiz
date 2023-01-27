@@ -2126,6 +2126,11 @@ hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
+metafile = true
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
 metafile = true
@@ -2508,6 +2513,26 @@ metafile = true
 [[files]]
 file = "mods/secretroomsmod.pw.toml"
 hash = "59fd5585fa7e96074fc8d2cf5197a88175fc5ee5459375eddb166f08393a284c"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "ba20eb5e1ea5e39e226a71f82801000b03271e5a7f0aff6d7747456b80c93b2d"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems-extra-parts.pw.toml"
+hash = "6977c9087ebdcc2180c5a98e2c62ede43c80e037937b26e8da710f9858319984"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems-tic-support.pw.toml"
+hash = "55cb052c184a514cc6a13aa0f4fed6e0c4779689cf53d9b83908f08ad4e54ddc"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems.pw.toml"
+hash = "4ab138f7c54a88f762a7ddf8b7d397a05477d708b8f043821d9faf0a684260fa"
 metafile = true
 
 [[files]]
