@@ -1,0 +1,13 @@
+name = "HeroesExpansion"
+filename = "HeroesExpansion-1.12.2-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42ad042aee1ea97f1d96681c4221cd1b71577dc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2762537
+project-id = 267462

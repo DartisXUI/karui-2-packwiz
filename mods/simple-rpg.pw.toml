@@ -1,0 +1,13 @@
+name = "Simple RPG"
+filename = "simplerpg-2.2-1.12.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c755fe524e8c8b57539e839cefc9c50febb7c836"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2506574
+project-id = 279745

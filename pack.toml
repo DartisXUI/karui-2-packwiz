@@ -1,0 +1,13 @@
+name = "Dartis-Craft - Vanilla Plus Ultra 2 Packwiz"
+author = "Dartis XUI"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "99187155d08782d5070b752dd60156c0acf93a8e4b3a85cd295c6cddf8d70ba0"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
