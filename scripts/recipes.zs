@@ -7,7 +7,7 @@ recipes.removeByMod("actuallyadditions");
 //#Add
 recipes.addShapeless(<actuallyadditions:item_misc:9>, [<actuallyadditions:item_food:16>, <actuallyadditions:item_food:16>]);
 recipes.addShapeless(<minecraft:paper> * 3, [<actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>]);
-recipes.addShapeless(<actuallyadditions:item_misc:12> * 4, [<actuallyadditions:item_misc:9> ,[<actuallyadditions:item_misc:9>, [<actuallyadditions:item_misc:9>,[<actuallyadditions:item_misc:9>, <minecraft:water_bucket>]);
+recipes.addShapeless(<actuallyadditions:item_misc:12> * 4, [<actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <minecraft:water_bucket>]);
 recipes.addShapeless(<lucraftcore:ore_uranium>, [<orecore:uranium_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:1>, [<orecore:tin_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:2>, [<orecore:silver_ore>]);
@@ -45,4 +45,28 @@ furnace.addRecipe(<orecore:amethyst_ore> * 2, <orecore:nether_amethyst_ore>, 0.0
 furnace.addRecipe(<thermalfoundation:ore:4> * 3, <orecore:nether_aluminium_ore>, 0.0);
 furnace.setFuel(<sgcraft:naquadah>, 16000);
 recipes.addShapedMirrored(<sgcraft:zpm>, [[<sgcraft:sgcontrollercrystal>, <sgcraft:sgcontrollercrystal>, <sgcraft:sgcontrollercrystal>],[<sgcraft:sgcontrollercrystal>, <sgcraft:sgcorecrystal>, <sgcraft:pegasus_upgrade>], [null, <sgcraft:sgcontrollercrystal>, null]]);
+recipes.addShapedMirrored(<actuallyadditions:item_pickaxe_emerald>, [[<minecraft:emerald>, <minecraft:emerald>, <minecraft:emerald>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_axe_emerald>, [[<minecraft:emerald>, <minecraft:emerald>, <null>],[<minecraft:emerald>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_shovel_emerald>, [[<null>, <minecraft:emerald>, <null>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_sword_emerald>, [[<null>, <minecraft:emerald>, <null>],[<null>, <minecraft:emerald>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_hoe_emerald>, [[<minecraft:emerald>, <minecraft:emerald>, <null>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+
+recipes.addShapedMirrored(<actuallyadditions:item_pickaxe_obsidian>, [[<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_axe_obsidian>, [[<minecraft:obsidian>, <minecraft:obsidian>, <null>],[<minecraft:obsidian>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_shovel_obsidian>, [[<null>, <minecraft:obsidian>, <null>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_sword_obsidian>, [[<null>, <minecraft:obsidian>, <null>],[<null>, <minecraft:obsidian>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_hoe_obsidian>, [[<minecraft:obsidian>, <minecraft:obsidian>, <null>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+
+recipes.addShapedMirrored(<actuallyadditions:item_pickaxe_quartz>, [[<actuallyadditions:item_misc:5>, <actuallyadditions:item_misc:5>, <actuallyadditions:item_misc:5>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_axe_quartz>, [[<actuallyadditions:item_misc:5>, <actuallyadditions:item_misc:5>, <null>],[<actuallyadditions:item_misc:5>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_shovel_quartz>, [[<null>, <actuallyadditions:item_misc:5>, <null>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_sword_quartz>, [[<null>, <actuallyadditions:item_misc:5>, <null>],[<null>, <minecraft:item_misc:5>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_hoe_quartz>, [[<actuallyadditions:item_misc:5>, <actuallyadditions:item_misc:5>, <null>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+
+recipes.addShapedMirrored(<actuallyadditions:item_helm_emerald>, [[<minecraft:item_misc:5>, <minecraft:item_misc:5>, <minecraft:item_misc:5>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_axe_quartz>, [[<minecraft:item_misc:5>, <minecraft:item_misc:5>, <null>],[<minecraft:item_misc:5>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_shovel_quartz>, [[<null>, <minecraft:item_misc:5>, <null>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_sword_quartz>, [[<null>, <minecraft:item_misc:5>, <null>],[<null>, <minecraft:item_misc:5>, <null>],[<null>, <minecraft:stick>, <null>]]);
+recipes.addShapedMirrored(<actuallyadditions:item_hoe_quartz>, [[<minecraft:item_misc:5>, <minecraft:item_misc:5>, <null>],[<null>, <minecraft:stick>, <null>],[<null>, <minecraft:stick>, <null>]]);//File End
+
 //File End
