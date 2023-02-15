@@ -6,8 +6,8 @@ recipes.removeByMod("actuallyadditions");
 //Don't touch me!
 //#Add
 recipes.addShapeless(<actuallyadditions:item_misc:9>, [<actuallyadditions:item_food:16>, <actuallyadditions:item_food:16>]);
-recipes.addShapeless(<minecraft:paper> * 3, [<actuallyadditions:item_food:16>, <actuallyadditions:item_food:16>, <actuallyadditions:item_food:16>]);
-recipes.addShapeless(<actuallyadditions:item_misc:12>, [<actuallyadditions:item_misc> ,[<actuallyadditions:item_misc>, [<actuallyadditions:item_misc>,[<actuallyadditions:item_misc>, <minecraft:water_bucket>]);
+recipes.addShapeless(<minecraft:paper> * 3, [<actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>]);
+recipes.addShapeless(<actuallyadditions:item_misc:12>, [<actuallyadditions:item_misc:9> ,[<actuallyadditions:item_misc:9>, [<actuallyadditions:item_misc:9>,[<actuallyadditions:item_misc:9>, <minecraft:water_bucket>]);
 recipes.addShapeless(<lucraftcore:ore_uranium>, [<orecore:uranium_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:1>, [<orecore:tin_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:2>, [<orecore:silver_ore>]);
