@@ -10,7 +10,7 @@ recipes.remove(<orecore:emerald_shovel>);
 recipes.remove(<orecore:emerald_hoe>);
 recipes.remove(<orecore:emerald_helmet>);
 recipes.remove(<orecore:emerald_chestplate>);
-recipes.remove(<orecore:emerald_leggings>);
+recipes.remove(<orecore:emerald_leggins>);
 recipes.remove(<orecore:emerald_boots>);
 //Don't touch me!
 //#Add
