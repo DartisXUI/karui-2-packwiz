@@ -3,6 +3,15 @@
 //#Remove 
 recipes.removeByMod("enderio");
 recipes.removeByMod("actuallyadditions");
+recipes.remove(<orecore:emerald_sword>);
+recipes.remove(<orecore:emerald_pickaxe>);
+recipes.remove(<orecore:emerald_axe>);
+recipes.remove(<orecore:emerald_shovel>);
+recipes.remove(<orecore:emerald_hoe>);
+recipes.remove(<orecore:emerald_helmet>);
+recipes.remove(<orecore:emerald_chestplate>);
+recipes.remove(<orecore:emerald_leggings>);
+recipes.remove(<orecore:emerald_boots>);
 //Don't touch me!
 //#Add
 recipes.addShapeless(<actuallyadditions:item_misc:9>, [<actuallyadditions:item_food:16>, <actuallyadditions:item_food:16>]);
