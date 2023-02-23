@@ -105,6 +105,10 @@ file = "config/conarm.cfg"
 hash = "c11584598e134465d55e2297f6a3d0e39ba30817c74a262788a091d1dc0b024f"
 
 [[files]]
+file = "config/endercore/endercore.cfg"
+hash = "93ea98194389086516daffd4a2c9ddc0e838e7efe9d17358b31957c6bf88d268"
+
+[[files]]
 file = "config/enderstorage.cfg"
 hash = "b81fd0e3e1753c167c301de3934e7aa8cb83762b2eaf37e095f3e21044afa578"
 
@@ -142,7 +146,7 @@ hash = "805e2832563d93b8c82f5e532d65e919ff1920f3ab54a144439c05f4090481c5"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "04fe3bef4c7cd3f421a3373892adb2c121ba5632a89bfda3ed47e644a8605f18"
+hash = "fe6f683572e680475238dd68d0271a08bec0bb9de110f1247d57dcad19346fdb"
 
 [[files]]
 file = "config/reccomplex.cfg"
