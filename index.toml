@@ -2226,7 +2226,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e8d1cfc13226f6633ebd7fef08e6818471969453778bb4d7e99c8ca09250831a"
+hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
 metafile = true
 
 [[files]]
@@ -2236,7 +2236,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "5a604eefd6d3e27579191c1a1ef1bd9c066b9ccbfdf02485c8f947bc7898d2ef"
+hash = "8aba088280df64de3f08076ee0277a4aad63303c19533fa8d2e5c329352f5757"
 metafile = true
 
 [[files]]
@@ -2351,7 +2351,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ad31b269f91a5d20469089ecfb8bbf9e9966f30b39ad75368d7203a4992e0a02"
+hash = "cda01bf4d35760f39fba127b80337559dbd82e75edd63c268f87ef6f02eb460b"
 metafile = true
 
 [[files]]
@@ -2376,7 +2376,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "e203fa6b60a92b70db008972e810efaf2520ee2fd8ef8920bdc4b43204337787"
+hash = "a2418551d4c84984d92c73244bbfa7b9190abdc197fd7e8f81b46cfac5483ddf"
 metafile = true
 
 [[files]]
@@ -2456,7 +2456,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.pw.toml"
-hash = "d49a2875dfa5bc24d30c7c825bb5a672b26c0ce62f7225e3f4b977948909cdfb"
+hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
 metafile = true
 
 [[files]]
