@@ -2236,7 +2236,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "8aba088280df64de3f08076ee0277a4aad63303c19533fa8d2e5c329352f5757"
+hash = "9f6856a374d50452306d5466a030a990d5ec7703e0dffc388c90a09e1197e6ee"
 metafile = true
 
 [[files]]
@@ -2366,7 +2366,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "93bb7ceddd7ab173b75e6759f71b627bdf07bbee3e6d37dbdf2296c3d12e09f0"
+hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
 metafile = true
 
 [[files]]
