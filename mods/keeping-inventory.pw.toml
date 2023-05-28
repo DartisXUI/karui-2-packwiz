@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 2510058
 project-id = 231775
+
+[option]
+optional = true
+default = true
+description = "Forces Keeping Inventory on, and Disables Mod Griefing (Like Creepers Explosion Damage)."
