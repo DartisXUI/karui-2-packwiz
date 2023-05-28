@@ -2371,7 +2371,7 @@ metafile = true
 
 [[files]]
 file = "mods/keeping-inventory.pw.toml"
-hash = "d4eacd9e7983958f537b4a569f06164a23183783415629f10f4e6f42a5c31ad4"
+hash = "5ea6930633d74fb846b1fb63ebd4b5b1c4e9048dc8a3702ef3d87959e755ef1e"
 metafile = true
 
 [[files]]
