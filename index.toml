@@ -2301,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-legacy-forge.pw.toml"
-hash = "14a4cd607612ad773fb795b9008e7ee3bfb3e32ca357cd5a0c03d66055cbd5ca"
+hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
 metafile = true
 
 [[files]]
