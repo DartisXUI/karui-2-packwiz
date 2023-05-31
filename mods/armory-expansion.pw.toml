@@ -1,13 +1,13 @@
 name = "Armory Expansion"
-filename = "armoryexpansion-1.4.1.jar"
+filename = "armoryexpansion-2.0.0-alpha.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a9a289e18b3e27ee60a60e0f0d41838a5699d7d5"
+hash = "42fffb0f228fa75588bd4fb91f28b98378b473ce"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2815771
+file-id = 2925155
 project-id = 293602
