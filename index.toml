@@ -2161,7 +2161,7 @@ metafile = true
 
 [[files]]
 file = "mods/armory-expansion.pw.toml"
-hash = "98ff97a3743b42d3a1237997ce7db804ca772dae2edbb8186d90516701ed7be5"
+hash = "58c4a939df6839e5b9e3c65b9111259a79e60da0f9f442fd7c6207253c5ed759"
 metafile = true
 
 [[files]]
@@ -2271,7 +2271,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.pw.toml"
-hash = "cde76f6a6996baea5268266faa3d2bf93aba1e61f2e85c1811c383087bb20457"
+hash = "24b6d6f854cefa26aa17bdbbbe1362d17d89619fe821ac98d0c3805071a9af07"
 metafile = true
 
 [[files]]
@@ -2301,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-legacy-forge.pw.toml"
-hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
+hash = "9ba1a2a38da314090896b96217ad5ea54bf551ee291e6c3aa723ffb7fad15156"
 metafile = true
 
 [[files]]
@@ -2316,7 +2316,7 @@ metafile = true
 
 [[files]]
 file = "mods/hunting-dimension.pw.toml"
-hash = "daccec4c429a0d28654fd62731620f0252d551e4175f824d6a100c1e1c61f534"
+hash = "803cd0e9c66a206c88e9fb1e3a65a2b3aae96c053a3eaaaf5af0e2ef20fe1c71"
 metafile = true
 
 [[files]]
@@ -2506,7 +2506,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins-structure-spawning-system.pw.toml"
-hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
+hash = "b9c145af1fdba239dbe43fd646b9444453b60618b43945c6ecc6ac844b053411"
 metafile = true
 
 [[files]]
