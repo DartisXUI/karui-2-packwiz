@@ -2271,7 +2271,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-io.pw.toml"
-hash = "cde76f6a6996baea5268266faa3d2bf93aba1e61f2e85c1811c383087bb20457"
+hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
 metafile = true
 
 [[files]]
@@ -2376,7 +2376,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "1480267daf1a8e0ed69f37a2d1192074fbb1a7c0d7932c3bf48acdcc6eb8a469"
+hash = "a0eb5db0719028dfcc8dc79e953c8403d9cdc7706bc851b070b6255db44a3dd0"
 metafile = true
 
 [[files]]
