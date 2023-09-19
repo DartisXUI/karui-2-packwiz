@@ -2236,12 +2236,12 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "b095df04d8f85baabc6e166ce908b21ab26b305576fd2037a3e87ec5a3759653"
+hash = "1e55dda09d2d35dffef2ee61abf7bd47882b2703ecdbf2070ee420b84d05ef59"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2676bfac716c4970e7cb978611cb21ebc365c461569e06a918442ccd02968c22"
+hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
 metafile = true
 
 [[files]]
@@ -2376,7 +2376,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "2b415edf325666889350d6fd522d56757b5a1e0d81d0a37d156ae33204b7075d"
+hash = "35c9b8e6cd8cf543185960555bb77ab374c7b2f7730f305f526b2a7c7ddcad73"
 metafile = true
 
 [[files]]
