@@ -14,6 +14,8 @@ recipes.remove(<orecore:emerald_leggins>);
 recipes.remove(<orecore:emerald_boots>);
 //Don't touch me!
 //#Add
+recipes.addShapeless(<extrautils2:compresseddirt>, [<prefab:block_compressed_dirt>]);
+recipes.addShapeless(<prefab:block_compressed_dirt>, [<extrautils2:compresseddirt>]);
 recipes.addShapeless(<actuallyadditions:item_misc:9>, [<actuallyadditions:item_food:16>, <actuallyadditions:item_food:16>]);
 recipes.addShapeless(<minecraft:paper> * 3, [<actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>]);
 recipes.addShapeless(<actuallyadditions:item_misc:12> * 4, [<actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <actuallyadditions:item_misc:9>, <minecraft:water_bucket>]);
