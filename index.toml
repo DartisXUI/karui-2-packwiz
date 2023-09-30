@@ -2114,7 +2114,7 @@ hash = "6f8ca0b1bf70788cf9e6617983e0833f4c2661fcc2b91f93285bbe30086c4028"
 
 [[files]]
 file = "config/simplerpg.cfg"
-hash = "deddc7a7d9fdd65f00d6702ea22f8427076cd63ece12eb9d9f39446ecaf55614"
+hash = "c9ef9f963ce8c7e3adc65e8e5288195df7d1c45c8dc1c4d5c9604b9452021d2b"
 
 [[files]]
 file = "config/tconstruct.cfg"
