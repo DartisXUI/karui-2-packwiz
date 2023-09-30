@@ -21,7 +21,7 @@ recipes.addShapeless(<enderio:item_xp_transfer>, [<minecraft:soul_sand>, <minecr
 recipes.addShapeless(<lucraftcore:ore_uranium>, [<orecore:uranium_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:1>, [<orecore:tin_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:2>, [<orecore:silver_ore>]);
-recipes.addShapeless(<thermalfoundation:ore:6>, [<orecore:platin_ore>]);
+recipes.addShapeless(<thermalfoundation:ore:6>, [<orecore:platinum_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:3>, [<orecore:lead_ore>]);
 recipes.addShapeless(<thermalfoundation:ore:7>, [<orecore:iridium_ore>]);
 recipes.addShapeless(<thermalfoundation:ore>, [<orecore:copper_ore>]);
