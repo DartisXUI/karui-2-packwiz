@@ -2113,6 +2113,10 @@ file = "config/sgcraft.cfg"
 hash = "6f8ca0b1bf70788cf9e6617983e0833f4c2661fcc2b91f93285bbe30086c4028"
 
 [[files]]
+file = "config/simplerpg.cfg"
+hash = "b91348dbe29a2f37e9ebdfbaafe3d6dac47ac985d058ba8887b9e22a485d2d68"
+
+[[files]]
 file = "config/tconstruct.cfg"
 hash = "c38e4eb09017e6fabaa57da22f9722ca96c4ce6d503543b44bab9d351279d1cb"
 
