@@ -1,0 +1,27 @@
+{
+	"name" : {
+		"text": "Elemental Protection"
+	},
+
+	"icon": {
+		"type": "icon",
+		"item": {
+			"item": "minecraft:water",
+			}
+		}
+
+	"capsule_color" : 255,
+	
+	"abilities": [
+		{
+			"ability": "lucraftcore:water_breathing",
+		},
+		{
+			"ability": "lucraftcore:fire_resistance",
+		},
+		{
+			"ability": "lucraftcore:fall_resistance",
+		},
+	
+	]
+}
