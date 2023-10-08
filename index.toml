@@ -5,10 +5,6 @@ file = "addonpacks/abilities.html"
 hash = "d31ef06aec542cf73a043e0bb599268baa13d375d6b98e36b6a4d9839c264f56"
 
 [[files]]
-file = "addonpacks/sps.zip"
-hash = "26a352a0a93fc60dd086fe1ada2e0b7a141a805ae09a25c7b7c6ccde918a5b19"
-
-[[files]]
 file = "config/KeepingInventory.cfg"
 hash = "847f2c0286f5e1f94e39fdde76253f848bbab3ce1e31e7fffaafc1e3c71644b0"
 
