@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "addonpacks/Assault.json"
-hash = "c37b27c7a1bc27b7c7b394d5e5fa0f4ccaf08152fdaeb308d9bd4ea376ce62aa"
-
-[[files]]
-file = "addonpacks/Lifeforce.json"
-hash = "837f8191dc2e3a15d379e7985f433570d6d966931644ae8ea98753ebb492d048"
-
-[[files]]
-file = "addonpacks/Nature.json"
-hash = "dc89f997ceb4c24901231a502dc0f2d10abb0c73bfbafceff2efb8ff4f1b75c7"
-
-[[files]]
 file = "addonpacks/abilities.html"
 hash = "d31ef06aec542cf73a043e0bb599268baa13d375d6b98e36b6a4d9839c264f56"
+
+[[files]]
+file = "addonpacks/dartis-craft starter power sets.zip"
+hash = "201bc5a27c4d80cbcc8c3786033766460cb87c90df617cf3448e7c3bea97c6c8"
 
 [[files]]
 file = "config/KeepingInventory.cfg"
