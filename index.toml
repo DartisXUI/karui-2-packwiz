@@ -6,7 +6,7 @@ hash = "d31ef06aec542cf73a043e0bb599268baa13d375d6b98e36b6a4d9839c264f56"
 
 [[files]]
 file = "addonpacks/sps.zip"
-hash = "de9d6dccb853c7bf0405c4a264c849e06761ffdc73d113e183fcd294ce0d56d5"
+hash = "00818e664711d5e8e700adbb6707afee612a613de31193b161d822afa2b293fd"
 
 [[files]]
 file = "config/KeepingInventory.cfg"
