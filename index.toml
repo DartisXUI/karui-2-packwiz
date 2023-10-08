@@ -6,7 +6,7 @@ hash = "d31ef06aec542cf73a043e0bb599268baa13d375d6b98e36b6a4d9839c264f56"
 
 [[files]]
 file = "addonpacks/sps.zip"
-hash = "06ed96cbf1d475926d0401cbac2d83b4b043005bae444bf40e442d37b35d5f28"
+hash = "c62116779f397c0fcfb8f39f1535bc8769dd80e66989ca2f4504405ff7a87aee"
 
 [[files]]
 file = "config/KeepingInventory.cfg"
@@ -142,7 +142,7 @@ hash = "faf20a8a19cec4874bb075fa9115e684504ccf06f58dff4397f25f09c80f8e15"
 
 [[files]]
 file = "config/lucraftcore.cfg"
-hash = "57cc8177d6a53409fb0991efad8c9a1ef4029fd7fe56e528cd446251c6964188"
+hash = "4131717ed37bb6bce011c40018a74be25fb7ea9ad40bc5c5277d89d440b39386"
 
 [[files]]
 file = "config/natura.cfg"
