@@ -142,7 +142,7 @@ hash = "faf20a8a19cec4874bb075fa9115e684504ccf06f58dff4397f25f09c80f8e15"
 
 [[files]]
 file = "config/lucraftcore.cfg"
-hash = "3ba94aafca2c389e15a51befd27d99b5ed316b539c7e2711780113c9efffe0c6"
+hash = "57cc8177d6a53409fb0991efad8c9a1ef4029fd7fe56e528cd446251c6964188"
 
 [[files]]
 file = "config/natura.cfg"
