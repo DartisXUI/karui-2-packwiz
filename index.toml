@@ -169,8 +169,12 @@ file = "config/ruins_config/beaches/dartiscraft-lighthouse-tesseract-direct-fina
 hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
+file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
+hash = "1bf04c71b0e1917226ac656334c7fc65f79718ee635d9cafed8a45c9a8ca6402"
+
+[[files]]
 file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "00ba8781f7a8096460c0271737bf6aecb428e93fb233e4c8c8947125c9af1d2c"
+hash = "adad834705d9bf8b2f9604fcd9b7d0988b5874577cda8fd0f3c611e28598d0f4"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9-typevpu-grass-final.tml"
@@ -178,7 +182,7 @@ hash = "ebefa90cb40208a370acd5093a225e514e1c36bfde38362adcd15cafd767118b"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
+hash = "1bf04c71b0e1917226ac656334c7fc65f79718ee635d9cafed8a45c9a8ca6402"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-direct-final.tml"
@@ -186,7 +190,7 @@ hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
+hash = "1bf04c71b0e1917226ac656334c7fc65f79718ee635d9cafed8a45c9a8ca6402"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-typevpu-desert-final.tml"
@@ -194,11 +198,11 @@ hash = "fe2e0781f0ff2dfe4a4c8981f68e6a84852e93ab65f2fe269b8962fa2c9de004"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "00ba8781f7a8096460c0271737bf6aecb428e93fb233e4c8c8947125c9af1d2c"
+hash = "adad834705d9bf8b2f9604fcd9b7d0988b5874577cda8fd0f3c611e28598d0f4"
 
 [[files]]
 file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "00ba8781f7a8096460c0271737bf6aecb428e93fb233e4c8c8947125c9af1d2c"
+hash = "adad834705d9bf8b2f9604fcd9b7d0988b5874577cda8fd0f3c611e28598d0f4"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9-typevpu-grass-final.tml"
@@ -206,7 +210,7 @@ hash = "ebefa90cb40208a370acd5093a225e514e1c36bfde38362adcd15cafd767118b"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
+hash = "1bf04c71b0e1917226ac656334c7fc65f79718ee635d9cafed8a45c9a8ca6402"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-tesseract-direct-final.tml"
@@ -214,7 +218,7 @@ hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
+hash = "1bf04c71b0e1917226ac656334c7fc65f79718ee635d9cafed8a45c9a8ca6402"
 
 [[files]]
 file = "config/ruins_config/generic/CastleModified.tml"
@@ -290,7 +294,7 @@ hash = "ebefa90cb40208a370acd5093a225e514e1c36bfde38362adcd15cafd767118b"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
+hash = "1bf04c71b0e1917226ac656334c7fc65f79718ee635d9cafed8a45c9a8ca6402"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
@@ -2094,11 +2098,11 @@ hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "220018d9e8e456376f89ac954359ac47b1f32cd6941163c12423a1a6490cfac2"
+hash = "1bf04c71b0e1917226ac656334c7fc65f79718ee635d9cafed8a45c9a8ca6402"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "00ba8781f7a8096460c0271737bf6aecb428e93fb233e4c8c8947125c9af1d2c"
+hash = "adad834705d9bf8b2f9604fcd9b7d0988b5874577cda8fd0f3c611e28598d0f4"
 
 [[files]]
 file = "config/ruins_config/templateparser/lootchestideas.tml"
