@@ -1,0 +1,27 @@
+{
+	"name" : {
+		"text": "Nature"
+	},
+
+	"icon": {
+		"type": "icon",
+		"item": {
+			"item": "minecraft:grass",
+			}
+		}
+
+	"capsule_color" : 40960,
+	
+	"abilities": [
+		{
+			"ability": "lucraftcore:water_breathing",
+		},
+		{
+			"ability": "lucraftcore:fire_resistance",
+		},
+		{
+			"ability": "lucraftcore:fall_resistance",
+		},
+	
+	]
+}

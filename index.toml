@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "addonpacks/Assault.json"
+hash = "c37b27c7a1bc27b7c7b394d5e5fa0f4ccaf08152fdaeb308d9bd4ea376ce62aa"
+
+[[files]]
+file = "addonpacks/Lifeforce.json"
+hash = "837f8191dc2e3a15d379e7985f433570d6d966931644ae8ea98753ebb492d048"
+
+[[files]]
+file = "addonpacks/Nature.json"
+hash = "dc89f997ceb4c24901231a502dc0f2d10abb0c73bfbafceff2efb8ff4f1b75c7"
+
+[[files]]
+file = "addonpacks/abilities.html"
+hash = "d31ef06aec542cf73a043e0bb599268baa13d375d6b98e36b6a4d9839c264f56"
+
+[[files]]
 file = "config/KeepingInventory.cfg"
 hash = "847f2c0286f5e1f94e39fdde76253f848bbab3ce1e31e7fffaafc1e3c71644b0"
 
@@ -134,7 +150,7 @@ hash = "faf20a8a19cec4874bb075fa9115e684504ccf06f58dff4397f25f09c80f8e15"
 
 [[files]]
 file = "config/lucraftcore.cfg"
-hash = "4e7e90fde87400212489b9f20ba8f7225396e26cc48435ca1c0bdb55036500b9"
+hash = "66ac6cef23434fb265ee810d4e79b8339fa635f76503e449dacc4ef35773ccf7"
 
 [[files]]
 file = "config/natura.cfg"
