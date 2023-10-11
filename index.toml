@@ -170,7 +170,7 @@ hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
 file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "5716c800d330ec836136a91871aa3369227b0efbe5688a42da3515bf8271d5c9"
+hash = "d8690bf2fe57583ff8517af29b7356414bea522633993c3130bc501bfacad5ef"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-mk9-typevpu-grass-final.tml"
@@ -178,11 +178,7 @@ hash = "ebefa90cb40208a370acd5093a225e514e1c36bfde38362adcd15cafd767118b"
 
 [[files]]
 file = "config/ruins_config/birch_forest/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "c61d71a7f90f755abdc4b13468ead37e389cd7748a23c01bc53a364db499a515"
-
-[[files]]
-file = "config/ruins_config/birch_forest/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "5716c800d330ec836136a91871aa3369227b0efbe5688a42da3515bf8271d5c9"
+hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-direct-final.tml"
@@ -190,7 +186,7 @@ hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "c61d71a7f90f755abdc4b13468ead37e389cd7748a23c01bc53a364db499a515"
+hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-typevpu-desert-final.tml"
@@ -198,11 +194,11 @@ hash = "fe2e0781f0ff2dfe4a4c8981f68e6a84852e93ab65f2fe269b8962fa2c9de004"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "5716c800d330ec836136a91871aa3369227b0efbe5688a42da3515bf8271d5c9"
+hash = "d8690bf2fe57583ff8517af29b7356414bea522633993c3130bc501bfacad5ef"
 
 [[files]]
 file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "5716c800d330ec836136a91871aa3369227b0efbe5688a42da3515bf8271d5c9"
+hash = "d8690bf2fe57583ff8517af29b7356414bea522633993c3130bc501bfacad5ef"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9-typevpu-grass-final.tml"
@@ -210,7 +206,7 @@ hash = "ebefa90cb40208a370acd5093a225e514e1c36bfde38362adcd15cafd767118b"
 
 [[files]]
 file = "config/ruins_config/forest/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "c61d71a7f90f755abdc4b13468ead37e389cd7748a23c01bc53a364db499a515"
+hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-tesseract-direct-final.tml"
@@ -218,7 +214,7 @@ hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "c61d71a7f90f755abdc4b13468ead37e389cd7748a23c01bc53a364db499a515"
+hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
 
 [[files]]
 file = "config/ruins_config/generic/CastleModified.tml"
@@ -294,7 +290,7 @@ hash = "ebefa90cb40208a370acd5093a225e514e1c36bfde38362adcd15cafd767118b"
 
 [[files]]
 file = "config/ruins_config/plains/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "c61d71a7f90f755abdc4b13468ead37e389cd7748a23c01bc53a364db499a515"
+hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
 
 [[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
@@ -2098,11 +2094,11 @@ hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "c61d71a7f90f755abdc4b13468ead37e389cd7748a23c01bc53a364db499a515"
+hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "5716c800d330ec836136a91871aa3369227b0efbe5688a42da3515bf8271d5c9"
+hash = "d8690bf2fe57583ff8517af29b7356414bea522633993c3130bc501bfacad5ef"
 
 [[files]]
 file = "config/ruins_config/templateparser/lootchestideas.tml"
@@ -2181,6 +2177,16 @@ hash = "98ff97a3743b42d3a1237997ce7db804ca772dae2edbb8186d90516701ed7be5"
 metafile = true
 
 [[files]]
+file = "mods/aroma1997core.pw.toml"
+hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
+metafile = true
+
+[[files]]
+file = "mods/aromabackup.pw.toml"
+hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
@@ -2218,6 +2224,11 @@ metafile = true
 [[files]]
 file = "mods/chisel.pw.toml"
 hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
 metafile = true
 
 [[files]]
@@ -2276,8 +2287,13 @@ hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
 metafile = true
 
 [[files]]
-file = "mods/drawbridges.pw.toml"
-hash = "5228438d9c96ce7731f02ec27030102aee8d07554e6fe1d3846f9703d6803fb7"
+file = "mods/dragon-mounts-legacy-continued.pw.toml"
+hash = "781b184ee7c08d3a12674041b4977de3f64b5983cacf0c39038d12107164e192"
+metafile = true
+
+[[files]]
+file = "mods/draw-bridge.pw.toml"
+hash = "1ad8460d6bebf5c50f1fafff75030c0295b0678dc426d63aff98871515961f65"
 metafile = true
 
 [[files]]
@@ -2303,6 +2319,11 @@ metafile = true
 [[files]]
 file = "mods/engineers-workshop-reborn.pw.toml"
 hash = "acdaf14f2cb42456b371b1966f790c07736e07f398bbe4f957a4988db308e174"
+metafile = true
+
+[[files]]
+file = "mods/etheralt-pack-utils.pw.toml"
+hash = "eba1e3c4c49bd21eed8a4bd8396479cdef546f7d0bfb16788dc90f1aa1dbba0d"
 metafile = true
 
 [[files]]
@@ -2562,7 +2583,7 @@ metafile = true
 
 [[files]]
 file = "mods/stargate-network.pw.toml"
-hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
+hash = "e4c246de685c7f2424381f0d0b2f2c741b567c598d10969666c06b8c6f0ed52e"
 metafile = true
 
 [[files]]

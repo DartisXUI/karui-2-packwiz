@@ -1,0 +1,13 @@
+name = "Dragon Mounts Legacy Continued"
+filename = "DragonMounts-r49-sunfork.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84e4fd3a2619045f36e50c1e8a94147f8c98475a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3300669
+project-id = 448341

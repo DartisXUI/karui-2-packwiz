@@ -1,13 +1,11 @@
-name = "Stargate Network"
-filename = "SGCraft-2.0.5.jar"
+name = "SGCraft"
+filename = "SGCraft-2.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b4ad825a66379bd8331e3c4e7b6466728e9beec1"
-mode = "metadata:curseforge"
+url = "https://github.com/bsixel/SGCraft/releases/download/2.0.6-mc1.12.2/SGCraft-2.0.6.jar"
 
-[update]
-[update.curseforge]
-file-id = 3044648
-project-id = 289115
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1c4a2beb5a845dc87aa16ac986e19f6d7cc41a2a409ee26b204295065973fa3d"
