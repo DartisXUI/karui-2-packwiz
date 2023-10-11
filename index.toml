@@ -2094,11 +2094,11 @@ hash = "0987118c36a63a6a947f6e856a0f5f2fec39f452a6d32968be654517d79d999f"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
-hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
+hash = "66e80cdfd4e8acfdfce24f8185c9b3f54b04636348b716c94a5405f033c3a6c9"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mksand-typevpu-final.tml"
-hash = "d8690bf2fe57583ff8517af29b7356414bea522633993c3130bc501bfacad5ef"
+hash = "8d12995c3e4d3cd44b16f0deb8483fc825b20e12d948dfd42c2e7f84d54df1b2"
 
 [[files]]
 file = "config/ruins_config/templateparser/lootchestideas.tml"
