@@ -2647,6 +2647,11 @@ hash = "a3895abc87b7e4c9650ce4e7938953f22831d1f1e4e0fefc7a8c9dc65c0eb899"
 metafile = true
 
 [[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "44e1247ec91d08386ddb64ded3f500d41d278bbe89cdca48c974d340f9c296ed"
+metafile = true
+
+[[files]]
 file = "mods/unidict.pw.toml"
 hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
 metafile = true
