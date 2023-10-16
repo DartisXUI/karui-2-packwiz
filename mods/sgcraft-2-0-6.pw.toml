@@ -1,0 +1,13 @@
+name = "SGCraft-2.0.6"
+filename = "SGCraft-2.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b62f157b5751c183f300cea177230d2dea2cd841"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4800335
+project-id = 923523

@@ -1,0 +1,13 @@
+name = "EtherAlt-Utils"
+filename = "etheralt-pack-utils-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69ff61f70c26fd59d901f36e223791d713f3d890"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4800334
+project-id = 923516

@@ -2322,8 +2322,8 @@ hash = "acdaf14f2cb42456b371b1966f790c07736e07f398bbe4f957a4988db308e174"
 metafile = true
 
 [[files]]
-file = "mods/etheralt-pack-utils.pw.toml"
-hash = "eba1e3c4c49bd21eed8a4bd8396479cdef546f7d0bfb16788dc90f1aa1dbba0d"
+file = "mods/etheralt-utils.pw.toml"
+hash = "e2e6aec6de5b77b1300ee00f2a26a7625d2e11e65b199d028ee36927ee14b243"
 metafile = true
 
 [[files]]
@@ -2557,6 +2557,11 @@ hash = "59fd5585fa7e96074fc8d2cf5197a88175fc5ee5459375eddb166f08393a284c"
 metafile = true
 
 [[files]]
+file = "mods/sgcraft-2-0-6.pw.toml"
+hash = "61b39da4ac3d725ced2fbcc5c2be8a28c5c4db7dee649039c38357252c9bbd9b"
+metafile = true
+
+[[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "ba20eb5e1ea5e39e226a71f82801000b03271e5a7f0aff6d7747456b80c93b2d"
 metafile = true
@@ -2579,11 +2584,6 @@ metafile = true
 [[files]]
 file = "mods/simple-rpg.pw.toml"
 hash = "7a27f40a9d81021a6f694ead36f25e80e64c8fcd6ebf0d7dfd6058176a5a911c"
-metafile = true
-
-[[files]]
-file = "mods/stargate-network.pw.toml"
-hash = "e4c246de685c7f2424381f0d0b2f2c741b567c598d10969666c06b8c6f0ed52e"
 metafile = true
 
 [[files]]
