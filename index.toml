@@ -121,6 +121,10 @@ file = "config/enderstorage.cfg"
 hash = "b81fd0e3e1753c167c301de3934e7aa8cb83762b2eaf37e095f3e21044afa578"
 
 [[files]]
+file = "config/etheraltpackutils.cfg"
+hash = "a6309f96f777927d11b6b6d65935cf83e0b440f4a9144cd68d0f69a4d9f1b6eb"
+
+[[files]]
 file = "config/ftbutilities.cfg"
 hash = "7cb1de8d6fbc4ea1955d059676e39b07545f1e119846c4bfe8beb5c9f0b1bd32"
 
