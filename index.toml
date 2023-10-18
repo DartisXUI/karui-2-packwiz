@@ -122,7 +122,7 @@ hash = "b81fd0e3e1753c167c301de3934e7aa8cb83762b2eaf37e095f3e21044afa578"
 
 [[files]]
 file = "config/etheraltpackutils.cfg"
-hash = "b48357c2d6b284c0c3555b10b3972d180af328b1776b9a0d8b1b24de026e3bba"
+hash = "2af5ab746fc513a2df305cf58ea1c0cdf912b2416002912eacaf8f454cf4f2bd"
 
 [[files]]
 file = "config/ftbutilities.cfg"
