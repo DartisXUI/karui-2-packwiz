@@ -1,12 +1,12 @@
-name = "Dartis-Craft - Vanilla Plus Ultra 2 Packwiz"
+name = "Dartis-Craft - Karui-2-packwiz"
 author = "Dartis XUI"
-version = "1.0.0"
+version = "2.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0d18ae50a6849fdc2575c0b4f5482d4d0ded8450b6091569586cf2fbb683620c"
+hash = "9ec84e46c11e25f06b0a9d7f2338dffb99859fff22dd55756d26176ba510bc6a"
 
 [versions]
 forge = "14.23.5.2860"
