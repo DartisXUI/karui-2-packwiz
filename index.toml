@@ -301,6 +301,14 @@ file = "config/ruins_config/river/dartiscraft-goldrush.tml"
 hash = "6c2a911697a04b5f89678e14d701ddae530b1dd1728736ed19cee86e958bb05b"
 
 [[files]]
+file = "config/ruins_config/taiga/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
+hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
+
+[[files]]
+file = "config/ruins_config/taiga_hills/dartiscraft-xmarksthespot-tnt-heroesexpansion-injections-mkgrass-typevpu-final.tml"
+hash = "17b637b392358d4ac0bfe1850d71795744f623c093ce99882b22de93976c816c"
+
+[[files]]
 file = "config/ruins_config/templateparser/JG_ADJ_BedrockRail_1v12.tml"
 hash = "6edc03da1d89f081945da75ae92b68f4c20ed01e237c4209aa420c954a96d9e4"
 
