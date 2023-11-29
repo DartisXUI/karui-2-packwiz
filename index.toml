@@ -2421,7 +2421,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "bc1d7239f0e5525b0c30de109a0dfc1165b7ae405fc813169d16f9ee115ee4c6"
+hash = "0061074bb2ec0de5acb22f935f91d1185ae374868597e007bd211fca8710dd49"
 metafile = true
 
 [[files]]
