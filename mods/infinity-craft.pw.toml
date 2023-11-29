@@ -1,0 +1,13 @@
+name = "Infinity Craft"
+filename = "infinity-1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4073598357c635ce8ba0058192609ded8322f78a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2944457
+project-id = 285509
