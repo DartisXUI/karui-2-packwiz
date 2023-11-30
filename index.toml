@@ -2445,12 +2445,12 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "35c9b8e6cd8cf543185960555bb77ab374c7b2f7730f305f526b2a7c7ddcad73"
+hash = "0061074bb2ec0de5acb22f935f91d1185ae374868597e007bd211fca8710dd49"
 metafile = true
 
 [[files]]
 file = "mods/lucraft-core.pw.toml"
-hash = "a3782dbd89f986f0f19822979175f24ffee442daad5628a95411d325bceb1a89"
+hash = "f8769b779556a763c6291358a2fdc82b8e7e573d9e39aa9d1ba45ff488853490"
 metafile = true
 
 [[files]]

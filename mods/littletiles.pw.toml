@@ -1,13 +1,13 @@
 name = "LittleTiles"
-filename = "LittleTiles_v1.5.82_mc1.12.2.jar"
+filename = "LittleTiles_v1.5.84_mc1.12.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a7f881df0277c93e2df7a5a362bd0a0b9472481e"
+hash = "b6350ca801255ed4e520341e3eb9a1e73d6d66d9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4750222
+file-id = 4884120
 project-id = 257818
