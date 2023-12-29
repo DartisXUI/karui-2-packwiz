@@ -2219,6 +2219,11 @@ hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
 metafile = true
 
 [[files]]
+file = "mods/atum.pw.toml"
+hash = "ff652e35880dbddd1095a2c002246fc967e7f6d256778a053b6a8408d2c9fe39"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
@@ -2295,7 +2300,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "c3557cf3b273a44dbebc012ec409f7c21557712717067ffa24622564584e573b"
+hash = "073d906484325f7cd342ae4dc1b57a54538c4fbd04f6798c01fa32de46f097ad"
 metafile = true
 
 [[files]]
