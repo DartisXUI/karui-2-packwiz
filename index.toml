@@ -2324,6 +2324,11 @@ hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
 metafile = true
 
 [[files]]
+file = "mods/cyclic.pw.toml"
+hash = "a1026af48a53ef8abe2446a994d6f13db4e8cc73097dd508781ac2d99771ed19"
+metafile = true
+
+[[files]]
 file = "mods/dragon-mounts-legacy-continued.pw.toml"
 hash = "781b184ee7c08d3a12674041b4977de3f64b5983cacf0c39038d12107164e192"
 metafile = true
