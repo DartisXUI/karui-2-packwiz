@@ -2430,7 +2430,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d1583e5a76a3d77f42e81c73a7ed73cddcd5aa2551b689f5db4803587a77fe9a"
+hash = "7d15bd3065dfd074bdd3beffe17fe3c64e1a48c65402b243c2846b895766273c"
 metafile = true
 
 [[files]]
@@ -2455,7 +2455,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "6ae186a7bed19f0983c622f4cafc30f5308959d80537215bc5eb45f8a89f7a42"
+hash = "1d826f1e1dc6fa294255a5923bc8c094dfc6acd43c0f56e7700e37ae0006904e"
 metafile = true
 
 [[files]]
