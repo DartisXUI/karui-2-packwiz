@@ -2290,7 +2290,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
+hash = "b5b6687381fb9448bd810d5c10896fd095e256d2effcc4aa602e7824e5a65903"
 metafile = true
 
 [[files]]
@@ -2435,7 +2435,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9a4e81d9936e30393968afd7adb1b5337fbc3211f22f2c4e70c77db50678d3ae"
+hash = "fdc7c16deef289a8b6089d5eab3c6957f64650d2792d5e2398b8e4cf239cfbd4"
 metafile = true
 
 [[files]]
@@ -2455,7 +2455,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "1d826f1e1dc6fa294255a5923bc8c094dfc6acd43c0f56e7700e37ae0006904e"
+hash = "307efe62b434f30f3d71f905620940656cf609da92fc76a594ae14eed965ad63"
 metafile = true
 
 [[files]]
