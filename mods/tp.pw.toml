@@ -1,0 +1,13 @@
+name = "TP+"
+filename = "TP+-1.12.2-1.0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5d6d5d0e128edd0db0458a74ceea919aea29c2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2515952
+project-id = 281905

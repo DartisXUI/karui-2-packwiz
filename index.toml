@@ -2189,6 +2189,11 @@ hash = "ece5f8ded1b8d34341e11fe955d0dca5711f651424cd7e13a2106b11002fe051"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
@@ -2214,6 +2219,11 @@ hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
 metafile = true
 
 [[files]]
+file = "mods/aroma1997s-dimensional-world.pw.toml"
+hash = "8271e3d47842a5318c7b080a1cc155fc32e3c38bf917cab6a76baef8c15f81c0"
+metafile = true
+
+[[files]]
 file = "mods/aromabackup.pw.toml"
 hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
 metafile = true
@@ -2234,6 +2244,11 @@ hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
 metafile = true
 
 [[files]]
+file = "mods/base.pw.toml"
+hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -2241,6 +2256,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
+metafile = true
+
+[[files]]
+file = "mods/betterfps.pw.toml"
+hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
 
 [[files]]
@@ -2266,6 +2286,11 @@ metafile = true
 [[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
 
 [[files]]
@@ -2469,6 +2494,11 @@ hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
 metafile = true
 
 [[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
@@ -2521,6 +2551,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughids.pw.toml"
 hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
+metafile = true
+
+[[files]]
+file = "mods/objectpriorities.pw.toml"
+hash = "b3a2bf90259d893e5c374196f6e35d89281bbe16fa3073396c45688e6093fb29"
 metafile = true
 
 [[files]]
@@ -2591,6 +2626,11 @@ metafile = true
 [[files]]
 file = "mods/ruins-structure-spawning-system.pw.toml"
 hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
+metafile = true
+
+[[files]]
+file = "mods/saomod.pw.toml"
+hash = "ecaa2ee1cb84e7442c21a49f64b12fcda98fd2142a639701f1c2d1e939bcf505"
 metafile = true
 
 [[files]]
@@ -2689,8 +2729,13 @@ hash = "a3895abc87b7e4c9650ce4e7938953f22831d1f1e4e0fefc7a8c9dc65c0eb899"
 metafile = true
 
 [[files]]
+file = "mods/tp.pw.toml"
+hash = "6f8795e4dc59546d61f5b9b5ae9d65fe741715581220c3110938b827f818cbfb"
+metafile = true
+
+[[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "44e1247ec91d08386ddb64ded3f500d41d278bbe89cdca48c974d340f9c296ed"
+hash = "18ce26baf7d902d655154c7e64a7bb712a721b6db97ac7397b56a6be84dbb3a2"
 metafile = true
 
 [[files]]
