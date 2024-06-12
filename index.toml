@@ -2315,7 +2315,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "b5b6687381fb9448bd810d5c10896fd095e256d2effcc4aa602e7824e5a65903"
+hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
@@ -2325,7 +2325,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
+hash = "adde6cc9eeeac12f95fccfc4c40b993f8cd30c7837af4ae43f1303dcbb7917c8"
 metafile = true
 
 [[files]]
@@ -2735,7 +2735,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "18ce26baf7d902d655154c7e64a7bb712a721b6db97ac7397b56a6be84dbb3a2"
+hash = "edfea8c588d04444899d55006b339a42bd895f7544cc1d024b454a36dd680b92"
 metafile = true
 
 [[files]]
