@@ -2199,6 +2199,31 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
+file = "mods/animalium.pw.toml"
+hash = "d3ad699f806c1471f624ef65519cba0725d9917b82c5b6c4bdeb08d502bd4714"
+metafile = true
+
+[[files]]
+file = "mods/animania-cats-dogs.pw.toml"
+hash = "d35ef50555fd3695c0289f3b158d35b1e03be05444256e91ff74298b7725b01e"
+metafile = true
+
+[[files]]
+file = "mods/animania-extra.pw.toml"
+hash = "1ef50d884cdf717aeec398beacfe5f32acef367d8acf3eff5e82c06aa0db43d5"
+metafile = true
+
+[[files]]
+file = "mods/animania-farm.pw.toml"
+hash = "7205eacc42b2032a7bde4a9ba4dd3ed825a1530622c64ba2da8e516ae3bda5e7"
+metafile = true
+
+[[files]]
+file = "mods/animania.pw.toml"
+hash = "c41535d40cdbd5685b39e177a6d365f1e208947b79de0ecb88da34ebf302823a"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
@@ -2206,6 +2231,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+metafile = true
+
+[[files]]
+file = "mods/architecturecraft-tridev.pw.toml"
+hash = "502096634acc795253f3ea0752ed01db33b512bc2eb8b252092ba7f345de2a27"
 metafile = true
 
 [[files]]
@@ -2226,6 +2256,11 @@ metafile = true
 [[files]]
 file = "mods/aromabackup.pw.toml"
 hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
+metafile = true
+
+[[files]]
+file = "mods/atlcraft-candles-mod.pw.toml"
+hash = "b31a9bd0f102bb98a218c91904022e9ac53624f85dd225aefdb31d1657addeae"
 metafile = true
 
 [[files]]
@@ -2254,6 +2289,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/bear-with-me.pw.toml"
+hash = "3a1bb371fee8b1d64d2e5f3288a52fb305668ded62d1fa7d7318b076a4e2b3a6"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
 metafile = true
@@ -2271,6 +2311,11 @@ metafile = true
 [[files]]
 file = "mods/birds-foods.pw.toml"
 hash = "e563c31c740ef17483ccda6d3d2b0d64b46666fd91434ca498cb54bc1f9c14ce"
+metafile = true
+
+[[files]]
+file = "mods/blockcraftery.pw.toml"
+hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
 metafile = true
 
 [[files]]
@@ -2321,6 +2366,16 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
+metafile = true
+
+[[files]]
+file = "mods/coralreef.pw.toml"
+hash = "d3c4aa1f0516560421d843de606d1a4e5c2a5f4c26d057c41a5b1c4e37a891e9"
+metafile = true
+
+[[files]]
+file = "mods/craftstudio-api.pw.toml"
+hash = "62864f10984709eac9bd12cc55cfad6c44c95020fdbb715ec347087a520db8b1"
 metafile = true
 
 [[files]]
@@ -2419,8 +2474,18 @@ hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
 metafile = true
 
 [[files]]
+file = "mods/haloenergyswordsmod.pw.toml"
+hash = "e4bc2641d53eb89176e2143db83104829679590612a29322495c87462b2adb0f"
+metafile = true
+
+[[files]]
 file = "mods/heroesexpansion.pw.toml"
 hash = "6661e8feb7b6f674a6704b5cd7f5bb92c1c97e9fc35ed8bcee49c6da83317fa8"
+metafile = true
+
+[[files]]
+file = "mods/horse-tweaks.pw.toml"
+hash = "db8018266ead23ac0382439a100b09af5a48f22721e96972322ff9a7eba34e5c"
 metafile = true
 
 [[files]]
@@ -2484,6 +2549,11 @@ hash = "5ea6930633d74fb846b1fb63ebd4b5b1c4e9048dc8a3702ef3d87959e755ef1e"
 metafile = true
 
 [[files]]
+file = "mods/libraryex.pw.toml"
+hash = "3b801e140a30d59835776b7382e90fe95068e1dbb1204289f68ad8ee49d9d27f"
+metafile = true
+
+[[files]]
 file = "mods/littletiles.pw.toml"
 hash = "307efe62b434f30f3d71f905620940656cf609da92fc76a594ae14eed965ad63"
 metafile = true
@@ -2539,8 +2609,18 @@ hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
 metafile = true
 
 [[files]]
+file = "mods/mysticallib.pw.toml"
+hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
+metafile = true
+
+[[files]]
 file = "mods/natura.pw.toml"
 hash = "c177030cdf99db98e1807a6803da85b12b4a5af7fcb65b83a7356aa37cafe691"
+metafile = true
+
+[[files]]
+file = "mods/netherex.pw.toml"
+hash = "78c2a3d060bb60a73e797ce2c3036729a9cc471d37601149181b030ee8b7b6c9"
 metafile = true
 
 [[files]]
@@ -2581,6 +2661,11 @@ metafile = true
 [[files]]
 file = "mods/prefab.pw.toml"
 hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
+metafile = true
+
+[[files]]
+file = "mods/progressive-bosses.pw.toml"
+hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
 metafile = true
 
 [[files]]
@@ -2629,6 +2714,11 @@ hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
 metafile = true
 
 [[files]]
+file = "mods/rough-mobs.pw.toml"
+hash = "e9c1f2efd360aa99ca4dc6d1ca80138a2385994010242b2a552a4c1fd67d9725"
+metafile = true
+
+[[files]]
 file = "mods/ruins-structure-spawning-system.pw.toml"
 hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
 metafile = true
@@ -2671,6 +2761,16 @@ metafile = true
 [[files]]
 file = "mods/simple-rpg.pw.toml"
 hash = "7a27f40a9d81021a6f694ead36f25e80e64c8fcd6ebf0d7dfd6058176a5a911c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-wolves.pw.toml"
+hash = "9460df8924a51e9b4b4f2639d2cdf7bb960f3d8170ecc2237d99c662423b5ffb"
+metafile = true
+
+[[files]]
+file = "mods/swingthroughgrass.pw.toml"
+hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
 
 [[files]]
@@ -2739,6 +2839,11 @@ hash = "6f8795e4dc59546d61f5b9b5ae9d65fe741715581220c3110938b827f818cbfb"
 metafile = true
 
 [[files]]
+file = "mods/traverse-reforged.pw.toml"
+hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
+metafile = true
+
+[[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "edfea8c588d04444899d55006b339a42bd895f7544cc1d024b454a36dd680b92"
 metafile = true
@@ -2765,3 +2870,8 @@ hash = "3b658566b1d5b1340c9731d23809eb1cea91b8622525a8436a6fb106c86d4309"
 [[files]]
 file = "scripts/recipes.zs"
 hash = "d9f5685a54d559d87a3a336831509a1b1ee898df5923da71340d91c1e63f8c53"
+
+[[files]]
+file = "twilightforest.pw.toml"
+hash = "fcce284b150ffa2e98e94d177a492baf484d8fdc0a8e3f9fcc2ba857f1a54523"
+metafile = true

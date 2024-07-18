@@ -1,0 +1,13 @@
+name = "ATLCraft Candles Mod"
+filename = "ATLCraftCandlesMod(MC1.12-Ver1.9).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "561b6dbac8bd05e109d86e2c551e6ff72ef72102"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2493674
+project-id = 252066

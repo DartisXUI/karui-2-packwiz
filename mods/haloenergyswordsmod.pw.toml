@@ -1,0 +1,13 @@
+name = "HaloEnergySwordsMod"
+filename = "haloenergyswordsmod-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8a081cdd2420b49a8b773de50fc3d9c23efa1da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2680795
+project-id = 314775

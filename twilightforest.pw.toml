@@ -1,0 +1,13 @@
+name = "TwilightForest+"
+filename = "TwilightForest+-2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53b51cdc80b2b3f4ba00405aff3b9960e0eeb1ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3042969
+project-id = 404333
