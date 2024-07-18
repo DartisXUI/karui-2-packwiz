@@ -1,0 +1,13 @@
+name = "ObjectPriorities"
+filename = "ObjectPriorities-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "783682814"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2663223
+project-id = 308227

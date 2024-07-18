@@ -1,0 +1,13 @@
+name = "Ore Core"
+filename = "OreCore-1.12.2 -(v.1.4.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "665733fb9ab6bc4ef6bde88afd8217ff4836fba3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2678631
+project-id = 232386

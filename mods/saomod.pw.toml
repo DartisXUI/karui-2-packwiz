@@ -1,0 +1,13 @@
+name = "SAOMod"
+filename = "SAO_Mod-0.7c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "842071fd7b23128628347ecde9346b7903023518"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2663219
+project-id = 307830

@@ -1,0 +1,13 @@
+name = "Curio"
+filename = "Curio-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b11439ed68c043fa494fce90ee5ef65abbed26a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2668553
+project-id = 308190
