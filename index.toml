@@ -2804,11 +2804,6 @@ hash = "6f8795e4dc59546d61f5b9b5ae9d65fe741715581220c3110938b827f818cbfb"
 metafile = true
 
 [[files]]
-file = "mods/traverse-reforged.pw.toml"
-hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
-metafile = true
-
-[[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "edfea8c588d04444899d55006b339a42bd895f7544cc1d024b454a36dd680b92"
 metafile = true
