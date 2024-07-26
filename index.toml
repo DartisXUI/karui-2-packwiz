@@ -2214,11 +2214,6 @@ hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
-file = "mods/architecturecraft-tridev.pw.toml"
-hash = "502096634acc795253f3ea0752ed01db33b512bc2eb8b252092ba7f345de2a27"
-metafile = true
-
-[[files]]
 file = "mods/armory-expansion.pw.toml"
 hash = "98ff97a3743b42d3a1237997ce7db804ca772dae2edbb8186d90516701ed7be5"
 metafile = true
@@ -2291,11 +2286,6 @@ metafile = true
 [[files]]
 file = "mods/birds-foods.pw.toml"
 hash = "e563c31c740ef17483ccda6d3d2b0d64b46666fd91434ca498cb54bc1f9c14ce"
-metafile = true
-
-[[files]]
-file = "mods/blockcraftery.pw.toml"
-hash = "e2f14e48f0d4b8de42d67ba71c65c2b50e0e5ee9c823f825087c9bd5da11d5b4"
 metafile = true
 
 [[files]]
@@ -2586,11 +2576,6 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
-metafile = true
-
-[[files]]
-file = "mods/mysticallib.pw.toml"
-hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
 metafile = true
 
 [[files]]
