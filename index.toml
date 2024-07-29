@@ -2204,6 +2204,10 @@ hash = "d3ad699f806c1471f624ef65519cba0725d9917b82c5b6c4bdeb08d502bd4714"
 metafile = true
 
 [[files]]
+file = "mods/animania-1.12.2-base-2.0.3.28 (1).jar"
+hash = "64fd58afeaeaf5293883c95f20aafbb165b3c1cab05029bb8b9324f6d4051adc"
+
+[[files]]
 file = "mods/animania-cats-dogs.pw.toml"
 hash = "d35ef50555fd3695c0289f3b158d35b1e03be05444256e91ff74298b7725b01e"
 metafile = true
@@ -2216,11 +2220,6 @@ metafile = true
 [[files]]
 file = "mods/animania-farm.pw.toml"
 hash = "7205eacc42b2032a7bde4a9ba4dd3ed825a1530622c64ba2da8e516ae3bda5e7"
-metafile = true
-
-[[files]]
-file = "mods/animania.pw.toml"
-hash = "c41535d40cdbd5685b39e177a6d365f1e208947b79de0ecb88da34ebf302823a"
 metafile = true
 
 [[files]]
