@@ -2204,6 +2204,26 @@ hash = "d3ad699f806c1471f624ef65519cba0725d9917b82c5b6c4bdeb08d502bd4714"
 metafile = true
 
 [[files]]
+file = "mods/animania-cats-dogs.pw.toml"
+hash = "d35ef50555fd3695c0289f3b158d35b1e03be05444256e91ff74298b7725b01e"
+metafile = true
+
+[[files]]
+file = "mods/animania-extra.pw.toml"
+hash = "1ef50d884cdf717aeec398beacfe5f32acef367d8acf3eff5e82c06aa0db43d5"
+metafile = true
+
+[[files]]
+file = "mods/animania-farm.pw.toml"
+hash = "7205eacc42b2032a7bde4a9ba4dd3ed825a1530622c64ba2da8e516ae3bda5e7"
+metafile = true
+
+[[files]]
+file = "mods/animania.pw.toml"
+hash = "c41535d40cdbd5685b39e177a6d365f1e208947b79de0ecb88da34ebf302823a"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
