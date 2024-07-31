@@ -158,7 +158,7 @@ hash = "805e2832563d93b8c82f5e532d65e919ff1920f3ab54a144439c05f4090481c5"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "23e9681479c53658c043b87556a2a084ad721c76d7b4ca6109846c11349c965d"
+hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -2199,11 +2199,6 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
-file = "mods/animalium.pw.toml"
-hash = "d3ad699f806c1471f624ef65519cba0725d9917b82c5b6c4bdeb08d502bd4714"
-metafile = true
-
-[[files]]
 file = "mods/animania-cats-dogs.pw.toml"
 hash = "d35ef50555fd3695c0289f3b158d35b1e03be05444256e91ff74298b7725b01e"
 metafile = true
@@ -2726,26 +2721,6 @@ metafile = true
 [[files]]
 file = "mods/sgcraft-2-0-6.pw.toml"
 hash = "61b39da4ac3d725ced2fbcc5c2be8a28c5c4db7dee649039c38357252c9bbd9b"
-metafile = true
-
-[[files]]
-file = "mods/silent-lib.pw.toml"
-hash = "ba20eb5e1ea5e39e226a71f82801000b03271e5a7f0aff6d7747456b80c93b2d"
-metafile = true
-
-[[files]]
-file = "mods/silents-gems-extra-parts.pw.toml"
-hash = "6977c9087ebdcc2180c5a98e2c62ede43c80e037937b26e8da710f9858319984"
-metafile = true
-
-[[files]]
-file = "mods/silents-gems-tic-support.pw.toml"
-hash = "55cb052c184a514cc6a13aa0f4fed6e0c4779689cf53d9b83908f08ad4e54ddc"
-metafile = true
-
-[[files]]
-file = "mods/silents-gems.pw.toml"
-hash = "4ab138f7c54a88f762a7ddf8b7d397a05477d708b8f043821d9faf0a684260fa"
 metafile = true
 
 [[files]]
