@@ -14,11 +14,11 @@ hash = "847f2c0286f5e1f94e39fdde76253f848bbab3ce1e31e7fffaafc1e3c71644b0"
 
 [[files]]
 file = "config/TinkerToolLeveling.cfg"
-hash = "c8ce4b860358129fb90fa179bfd48c861c8afdc616b363a7d5fd2b88598a2704"
+hash = "3cbd82e1036a6e444b028cf42d83448107d6ef8aa01a37098a8efa62821b4c4e"
 
 [[files]]
 file = "config/Waystones.cfg"
-hash = "73649643eed98cc6c35f46ca5717f7aef037b244b2c95c5b99f68b71efdb6662"
+hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
 
 [[files]]
 file = "config/armoryexpansion.cfg"
@@ -150,11 +150,11 @@ hash = "7b53de62ae7313ade86360e9b5819a6560729822f58bef47ef30a5dad9d9553f"
 
 [[files]]
 file = "config/natura.cfg"
-hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
+hash = "208dd0e72fc9edbacb18a82d5baba1e21c474d7b8f8a1de6090bd0b3cf2d5776"
 
 [[files]]
 file = "config/orecore.cfg"
-hash = "805e2832563d93b8c82f5e532d65e919ff1920f3ab54a144439c05f4090481c5"
+hash = "567c291753e88b78caa4bf50c589c026ffadf35efa61d8eb641dd49412c78185"
 
 [[files]]
 file = "config/quark.cfg"
@@ -2154,7 +2154,7 @@ hash = "fa0579c6c5ec796bccbb65a2e142c7468023bffdc913720d06219a977b71dc37"
 
 [[files]]
 file = "config/tconstruct.cfg"
-hash = "c38e4eb09017e6fabaa57da22f9722ca96c4ce6d503543b44bab9d351279d1cb"
+hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
 
 [[files]]
 file = "config/unidict/IntegrationModule.cfg"
