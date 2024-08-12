@@ -2699,8 +2699,8 @@ hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
 metafile = true
 
 [[files]]
-file = "mods/rough-mobs.pw.toml"
-hash = "e9c1f2efd360aa99ca4dc6d1ca80138a2385994010242b2a552a4c1fd67d9725"
+file = "mods/rough-mobs-revamped.pw.toml"
+hash = "86083a18020055dd379165e8bd51f5631238beae49424e3b47e30077c1b73088"
 metafile = true
 
 [[files]]
