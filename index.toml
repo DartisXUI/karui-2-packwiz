@@ -2199,6 +2199,10 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
+file = "mods/animania-1.12.2-base-2.0.3.28.jar"
+hash = "64fd58afeaeaf5293883c95f20aafbb165b3c1cab05029bb8b9324f6d4051adc"
+
+[[files]]
 file = "mods/animania-cats-dogs.pw.toml"
 hash = "d35ef50555fd3695c0289f3b158d35b1e03be05444256e91ff74298b7725b01e"
 metafile = true
@@ -2211,11 +2215,6 @@ metafile = true
 [[files]]
 file = "mods/animania-farm.pw.toml"
 hash = "7205eacc42b2032a7bde4a9ba4dd3ed825a1530622c64ba2da8e516ae3bda5e7"
-metafile = true
-
-[[files]]
-file = "mods/animania.pw.toml"
-hash = "c41535d40cdbd5685b39e177a6d365f1e208947b79de0ecb88da34ebf302823a"
 metafile = true
 
 [[files]]
@@ -2264,9 +2263,8 @@ hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
-metafile = true
+file = "mods/badwithernocookiereloaded-1.12.2-3.4.18.jar"
+hash = "f7df4a095a08d74f553b6223d0059490cd2b9197b15e26721fbfbaf708e8290a"
 
 [[files]]
 file = "mods/base.pw.toml"
@@ -2675,7 +2673,7 @@ metafile = true
 
 [[files]]
 file = "mods/recurrent-complex.pw.toml"
-hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
+hash = "91f2d59223235e8432344bc2ab7df5d4637cd6b6b22666dcc58f0a3ef7e48d5d"
 metafile = true
 
 [[files]]
