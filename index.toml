@@ -2363,7 +2363,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
+hash = "e5615e669414ef90b0f514f5d9aadc3b8b93730790bbe64c3dbf130d74bbed17"
 metafile = true
 
 [[files]]
@@ -2508,12 +2508,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7d15bd3065dfd074bdd3beffe17fe3c64e1a48c65402b243c2846b895766273c"
+hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "fdc7c16deef289a8b6089d5eab3c6957f64650d2792d5e2398b8e4cf239cfbd4"
+hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
 metafile = true
 
 [[files]]
@@ -2568,7 +2568,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "ae9b5814a439a9c6ce570119e57e7a12e354951f701d98dfa3cb18045cdefcd4"
+hash = "740d521ec01d669cf460866162fb7ac2fc94772ea687674bc2f4182cf68bc1d9"
 metafile = true
 
 [[files]]
@@ -2808,7 +2808,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "7dabff8c27f322bff262b61a4b1fafe581ebcbdf4c574b67c0d9fb218c44d778"
+hash = "0402631d0bc1cde268123b1d2113969ab0b960fc32c70362d85ab111e7c4dd1d"
 metafile = true
 
 [[files]]
