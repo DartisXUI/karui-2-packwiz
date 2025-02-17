@@ -2442,6 +2442,11 @@ hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
 metafile = true
 
 [[files]]
+file = "mods/fermiumbooter.pw.toml"
+hash = "0e3b0bc5908955eef7b2f6593dbab8e47f89ea66fa48fcd205328d794798e4d5"
+metafile = true
+
+[[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
