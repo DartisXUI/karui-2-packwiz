@@ -21,6 +21,10 @@ file = "config/Waystones.cfg"
 hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
 
 [[files]]
+file = "config/actuallyadditions.cfg"
+hash = "888e7357ef8492fd6b2fc68a43ac05edd54dc0c8931de7c8062cb54ca950a62b"
+
+[[files]]
 file = "config/armoryexpansion.cfg"
 hash = "ea13aeb71bdc7de480c1bf8de4f3eb1c266a5a91a0d40066166be3836a887108"
 
