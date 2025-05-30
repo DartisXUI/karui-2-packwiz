@@ -2622,6 +2622,11 @@ hash = "b3a2bf90259d893e5c374196f6e35d89281bbe16fa3073396c45688e6093fb29"
 metafile = true
 
 [[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "3431051cce65c011bd7cd75412ad676ada9353851d7383199276faf34b5f3d6f"
+metafile = true
+
+[[files]]
 file = "mods/ore-core.pw.toml"
 hash = "64f81ceb520bde5db97e6787763bb1b7aae2e8a253ba4f6357dc77041010fd33"
 metafile = true
