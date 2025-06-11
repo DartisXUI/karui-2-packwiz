@@ -2822,7 +2822,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "6ba1099e93560d740acdc054cdaeef958be3386faab77c519959805d3138c9f7"
+hash = "f2ea63233854a75e4bdab5101a5894018bd0334293a28f6bc97a3f34e1e90151"
 metafile = true
 
 [[files]]
