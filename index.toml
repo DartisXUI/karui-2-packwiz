@@ -25,6 +25,10 @@ file = "config/actuallyadditions.cfg"
 hash = "888e7357ef8492fd6b2fc68a43ac05edd54dc0c8931de7c8062cb54ca950a62b"
 
 [[files]]
+file = "config/animania_farm.cfg"
+hash = "29e4a570da4abfbd02ca5ad72824dde36e588ebec40064db360712b0926ba496"
+
+[[files]]
 file = "config/armoryexpansion.cfg"
 hash = "ea13aeb71bdc7de480c1bf8de4f3eb1c266a5a91a0d40066166be3836a887108"
 
