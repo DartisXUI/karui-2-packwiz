@@ -2153,6 +2153,10 @@ file = "config/ruins_config/templateparser/taonasg.tml"
 hash = "ad431b81355ef630fc68d2bad9ea994d0d8856cfb2caff1bcf5c51b0b8ea2c7b"
 
 [[files]]
+file = "config/secretroomsmod.cfg"
+hash = "acc9fe84df2c24a88f1ac6186620b9c53ddd19db410e8f33754d0c8d6f200ce8"
+
+[[files]]
 file = "config/sgcraft.cfg"
 hash = "6f8ca0b1bf70788cf9e6617983e0833f4c2661fcc2b91f93285bbe30086c4028"
 
